@@ -9,9 +9,21 @@ ul {
 }
 
 .work-history {
-  margin-right: 30px;
+  margin-right: 500px;
 }
 
 .education {
   margin-right: 30px;
+}
+
+.name {
+  text-align: center;
+}
+
+.address {
+  text-align: center;
+}
+
+.number {
+  text-align: center; 
 }
