@@ -9,6 +9,10 @@ ul {
   font-family: times new romans;
 }
 
+p {
+  text-align: justify;
+}  
+
 .work-history {
   text-align: justify;
 }
