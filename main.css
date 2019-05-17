@@ -8,6 +8,7 @@ h3 {
   text-font: 12px;
   font-family: times new romans;
   text-align: center;
+  text-decoration: underline overline;
 }
 
 ul {
