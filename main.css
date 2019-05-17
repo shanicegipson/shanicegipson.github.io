@@ -17,30 +17,6 @@ p {
   text-align: right;
 }  
 
-.work-history {
-  text-align: justify;
-}
-
-.education {
-  margin-right: 30px;
-}
-
-.name {
+.header {
   text-align: center;
-  word-spacing: 10px;
-}
-
-.address {
-  text-align: center;
-  word-spacing: 10px;
-}
-
-.number {
-  text-align: center;
-  word-spacing: 10px;
-}
-
-.email {
-  text-align: center;
-  word-spacing: 10px;
 }
