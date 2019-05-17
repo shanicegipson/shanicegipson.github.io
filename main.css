@@ -11,6 +11,10 @@ h3 {
   text-decoration: underline overline;
 }
 
+h5 {
+  padding-left: 40px;
+}  
+
 ul {
   text-font: 10px;
   font-family: times new romans;
