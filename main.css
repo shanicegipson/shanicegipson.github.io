@@ -4,6 +4,10 @@ h3 {
   text-align: center;
 }
 
+header {
+  wordspacing: 1px; 
+}
+
 ul {
   text-font: 10px;
   font-family: times new romans;
