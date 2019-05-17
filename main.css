@@ -4,10 +4,6 @@ h3 {
   text-align: center;
 }
 
-header {
-  wordspacing: 1px; 
-}
-
 ul {
   text-font: 10px;
   font-family: times new romans;
@@ -23,16 +19,20 @@ ul {
 
 .name {
   text-align: center;
+  word-spacing: 10px
 }
 
 .address {
   text-align: center;
+  word-spacing: 10px
 }
 
 .number {
-  text-align: center; 
+  text-align: center;
+  word-spacing: 10px
 }
 
 .email {
   text-align: center;
+  word-spacing: 10px
 }
